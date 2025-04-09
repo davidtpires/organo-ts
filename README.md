@@ -1,32 +1,33 @@
-https://organo-ts-7w7w.vercel.app/
+# 📚 React: Migrando para TypeScript
 
-![Integrando seu projeto React com APIs](thumbnail.png)
+Este projeto foi desenvolvido como parte do curso **React: Migrando para TypeScript** da **Alura**. Ele tem como objetivo mostrar como migrar uma aplicação React em JavaScript para **TypeScript**, promovendo maior segurança, escalabilidade e organização no desenvolvimento.
 
-# Organo
+🔗 [Acesse o projeto aqui](https://organo-ts-7w7w.vercel.app/)
 
-O Organo é aplicação desenvolvida no curso <a href="https://cursos.alura.com.br/course/react-desenvolvendo-javascript" target="_blank">React: desenvolvendo com JavaScript</a>. 
-Foi pensado e idealizado para ser o primeiro projeto em contato com o React.
+## 📌 Visão Geral
 
-<img src="screencapture.png" alt="Imagem do Organo" width="50%">
+- Conversão de uma aplicação React de **JavaScript para TypeScript**.
+- Utilização de **tipagem estática** para garantir maior confiabilidade do código.
+- Componentização e reutilização de **componentes funcionais com props tipadas**.
+- Boas práticas no uso de **interfaces, types** e **tipagem de hooks**.
+- Organização de pastas e melhoria da estrutura do projeto.
 
+## 🛠️ Tecnologias Utilizadas
 
-## 🔨 Funcionalidades do projeto
+- **React:** Biblioteca para construção de interfaces interativas.
+- **TypeScript:** Superset do JavaScript com tipagem estática.
+- **Vite:** Ferramenta de build rápida e moderna.
+- **npm:** Gerenciador de pacotes.
+- **GitHub e Vercel:** Versionamento de código e deploy contínuo.
 
-Você pode passear <a href="https://cursos.alura.com.br/course/react-desenvolvendo-javascript" target="_blank">no figma</a> para entender a arte conceitual do projeto.
+## Coisas importantes para o projeto funcionar
 
-## ✔️ Técnicas e tecnologias utilizadas
+- Configuração do **TypeScript** no projeto (instalação de dependências e tsconfig).
+- Tipagem correta de **props**, **eventos** e **hooks** como `useState`, `useEffect`, etc.
+- Ajustes nos componentes para funcionar com **.tsx**.
 
-Se liga nessa lista de tudo que usaremos nessa formação:
+## 🚀 Como Rodar o Projeto
 
-- `React`
-- `React Hooks`
-- `TypeScript`
-
-E muito mais!
-
-## 🛠️ Abrir e rodar o projeto
-
-Para abrir e rodar o projeto, execute `npm i` para instalar as dependências e `npm start` para inicar o projeto.
-
-Depois, acesse <a href="http://localhost:3000/">http://localhost:3000/</a> no seu navegador.
-
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/davidtpires/react-organo-ts.git
